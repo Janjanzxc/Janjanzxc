@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Janjanzxc
+- 👀 I’m interested in a learning in Web  Development.
+- 🌱 I’m currently learning Front-End Developement
+- 💞️ I’m looking to collaborate on anyone that can help me improve
+- 📫 You can contact me @Wtfitsjanjan@gmail.com
